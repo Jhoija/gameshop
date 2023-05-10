@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GameShop</string>
+
+    <string name="hi">Hola,</string>
+    <string name="name">Ingrese Nombre</string>
+    <string name="lastname">Ingrese Apellidos</string>
+
+    <string name="password">Ingrese Contraseña</string>
+    <string name="pay">Comprar</string>
+    <string name="register">Registrar</string>
+    <string name="back">Cancelar</string>
+    <string name="login">Iniciar Sesion</string>
+    <string name="user_name">test</string>
+    <string name="version">1.8</string>
+    <string name="rpassword">Reingrese Contraseña</string>
+
+    <string name="accion">Accion</string>
+    <string name="sport">Deportes</string>
+    <string name="aventure">Aventura</string>
+
+    <string name="numero">Ingrese numero</string>
+    <string name="saldo">Saldo:</string>
+    <string name="historial">Historial</string>
+    <string name="comprar">Desea comprar el juego?</string>
+    <string name="categoria">Categoria</string>
+    <string name="recordarinicio">Recordar Sesion</string>
+
+    <string name="utf">abcdefghijklmnñopqrstuvwxyz ABCDEFGHIJKLMNÑOPQRSTUVWXYZ</string>
+
+    <string name="errorUser">Usuario o contraseña Incorrectas</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GameShop</string>
+
+    <string name="hi">Hello,</string>
+    <string name="name">First Name</string>
+    <string name="lastname">Last Name</string>
+
+    <string name="password">Password</string>
+    <string name="pay">Comprar</string>
+    <string name="register">Create Account</string>
+    <string name="back">Cancel</string>
+    <string name="login">Log in</string>
+    <string name="user_name">test</string>
+    <string name="version">1.8</string>
+    <string name="rpassword">Confirm-Password</string>
+
+    <string name="accion">Accion</string>
+    <string name="sport">Sports</string>
+    <string name="aventure">Aventure</string>
+
+    <string name="numero">Number</string>
+    <string name="saldo">Balance:</string>
+    <string name="historial">History</string>
+    <string name="comprar">Do you want to buy the game?</string>
+    <string name="categoria">Category</string>
+    <string name="recordarinicio">Remember me</string>
+
+    <string name="utf">abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+
+    <string name="errorUser">Incorrect user or password</string>
+</resources>
